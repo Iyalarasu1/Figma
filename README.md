@@ -175,6 +175,5 @@ color: black;
 
 ## OUTPUT:
 ![Alt text](exp09-1.jpeg)
-
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
